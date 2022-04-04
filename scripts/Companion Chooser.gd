@@ -5,6 +5,7 @@ var companion = ""
 
 func _physics_process(delta: float) -> void:
 	if companion == "Blooma":
+		#blooma
 		Global.companion = preload("res://scenes/Companion_Blooma_Fairy.tscn")
 		_change_scene()
 	if companion == "Mierko":

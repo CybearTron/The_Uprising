@@ -6,7 +6,7 @@
 [ext_resource path="res://assets/Gun-2.png" type="Texture" id=4]
 
 [sub_resource type="CapsuleShape2D" id=4]
-radius = 11.3333
+radius = 12.6667
 height = 17.3333
 
 [sub_resource type="CircleShape2D" id=2]
