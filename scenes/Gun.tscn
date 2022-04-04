@@ -1,0 +1,7 @@
+[gd_scene format=2]
+
+[node name="Gun" type="RayCast2D"]
+cast_to = Vector2( 50, 0 )
+
+[node name="Bullet_Pos" type="Position2D" parent="."]
+position = Vector2( 58, 0 )

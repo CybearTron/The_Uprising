@@ -1,0 +1,24 @@
+Genre: Side Scroller
+Rule: Take one, leave the rest
+Setting: Military
+Theme: Rich versus the poor
+
+Idea:
+Action side-scroller where you can have only one weapon.
+You can save only one person out of 3 and leave the rest to die.
+You have to survive along with the other person against the enemy troops.
+The Meerkats have attacked you and now its upon you to save your companion.
+Also you can't be damaged by the enemy bullets but your companion can. The companion might die due to your own bullets too!!
+
+Plan:
+A movement for the player //
+The movement for the companion //
+A combat system. //
+Enemies. //
+A way to choose one companion and leave the rest. //
+Special Companion Powers //
+New Enemies //
+Art
+Levels
+End State
+Music
