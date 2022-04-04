@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Tiole-2.png-6e71a1e0984de4d65a8755455f50cf91.stex"
+path="res://.import/Blooma The Fairy-1.png.png-028f9c8c8ca064d8ec33d41be1889032.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Tiole-2.png"
-dest_files=[ "res://.import/Tiole-2.png-6e71a1e0984de4d65a8755455f50cf91.stex" ]
+source_file="res://assets/Blooma The Fairy-1.png.png"
+dest_files=[ "res://.import/Blooma The Fairy-1.png.png-028f9c8c8ca064d8ec33d41be1889032.stex" ]
 
 [params]
 

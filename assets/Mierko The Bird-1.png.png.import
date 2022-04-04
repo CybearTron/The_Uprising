@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Tiole-2.png-6e71a1e0984de4d65a8755455f50cf91.stex"
+path="res://.import/Mierko The Bird-1.png.png-1c7a5fd3679141d00e5de04b156372d0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Tiole-2.png"
-dest_files=[ "res://.import/Tiole-2.png-6e71a1e0984de4d65a8755455f50cf91.stex" ]
+source_file="res://assets/Mierko The Bird-1.png.png"
+dest_files=[ "res://.import/Mierko The Bird-1.png.png-1c7a5fd3679141d00e5de04b156372d0.stex" ]
 
 [params]
 
